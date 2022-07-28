@@ -3,4 +3,4 @@
 
 npm i
 
-npm run server
+nodemon app
